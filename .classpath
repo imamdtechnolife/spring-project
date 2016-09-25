@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Java Development/beautyeye_lnf_v3.5_all_in_one/src_all/SwingSets2_for_be_lnf/lib/beautyeye_lnf.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MySQL/Connector.J 5.1/mysql-connector-java-5.1.33-bin.jar"/>
+	<classpathentry kind="lib" path="D:/Java Development/dynamicreports-4.0.1/dist/dynamicreports-adhoc-4.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Java Development/dynamicreports-4.0.1/dist/dynamicreports-adhoc-4.0.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Java Development/dynamicreports-4.0.1/dist/dynamicreports-core-4.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Java Development/dynamicreports-4.0.1/dist/dynamicreports-core-4.0.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Java Development/dynamicreports-4.0.1/dist/dynamicreports-core-4.0.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Java Development/dynamicreports-4.0.1/dist/dynamicreports-examples-4.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Java Development/dynamicreports-4.0.1/dist/dynamicreports-examples-4.0.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Java Development/dynamicreports-4.0.1/dist/dynamicreports-googlecharts-4.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Java Development/dynamicreports-4.0.1/dist/dynamicreports-googlecharts-4.0.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Java Development/dynamicreports-4.0.1/lib/avalon-framework-impl-4.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Java Development/dynamicreports-4.0.1/lib/barbecue-1.5-beta1.jar"/>
+	<classpathentry kind="lib" path="D:/Java Development/dynamicreports-4.0.1/lib/barcode4j-2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Java Development/dynamicreports-4.0.1/lib/batik-anim-1.7.jar"/>
+	<classpathentry kind="lib" path="D:/Java Development/dynamicreports-4.0.1/lib/batik-awt-util-1.7.jar"/>
+	<classpathentry kind="lib" path="D:/Java Development/dynamicreports-4.0.1/lib/batik-bridge-1.7.jar"/>
+	<classpathentry kind="lib" path="D:/Java Development/dynamicreports-4.0.1/lib/batik-css-1.7.jar"/>
+	<classpathentry kind="lib" path="D:/Java Development/dynamicreports-4.0.1/lib/batik-dom-1.7.jar"/>
+	<classpathentry kind="lib" path="D:/Java Development/dynamicreports-4.0.1/lib/batik-ext-1.7.jar"/>
+	<classpathentry kind="lib" path="D:/Java Development/dynamicreports-4.0.1/lib/batik-gvt-1.7.jar"/>
+	<classpathentry kind="lib" path="D:/Java Development/dynamicreports-4.0.1/lib/batik-parser-1.7.jar"/>
+	<classpathentry kind="lib" path="D:/Java Development/dynamicreports-4.0.1/lib/batik-script-1.7.jar"/>
+	<classpathentry kind="lib" path="D:/Java Development/dynamicreports-4.0.1/lib/batik-svg-dom-1.7.jar"/>
+	<classpathentry kind="lib" path="D:/Java Development/dynamicreports-4.0.1/lib/batik-util-1.7.jar"/>
+	<classpathentry kind="lib" path="D:/Java Development/dynamicreports-4.0.1/lib/batik-xml-1.7.jar"/>
+	<classpathentry kind="lib" path="D:/Java Development/dynamicreports-4.0.1/lib/bcprov-jdk14-138.jar"/>
+	<classpathentry kind="lib" path="D:/Java Development/dynamicreports-4.0.1/lib/commons-beanutils-1.9.0.jar"/>
+	<classpathentry kind="lib" path="D:/Java Development/dynamicreports-4.0.1/lib/commons-codec-1.5.jar"/>
+	<classpathentry kind="lib" path="D:/Java Development/dynamicreports-4.0.1/lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Java Development/dynamicreports-4.0.1/lib/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Java Development/dynamicreports-4.0.1/lib/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="D:/Java Development/dynamicreports-4.0.1/lib/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Java Development/dynamicreports-4.0.1/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Java Development/dynamicreports-4.0.1/lib/ecj-4.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Java Development/dynamicreports-4.0.1/lib/hsqldb-1.8.0.10.jar"/>
+	<classpathentry kind="lib" path="D:/Java Development/dynamicreports-4.0.1/lib/itext-2.1.7.js2.jar"/>
+	<classpathentry kind="lib" path="D:/Java Development/dynamicreports-4.0.1/lib/jackson-annotations-2.1.4.jar"/>
+	<classpathentry kind="lib" path="D:/Java Development/dynamicreports-4.0.1/lib/jackson-core-2.1.4.jar"/>
+	<classpathentry kind="lib" path="D:/Java Development/dynamicreports-4.0.1/lib/jackson-databind-2.1.4.jar"/>
+	<classpathentry kind="lib" path="D:/Java Development/dynamicreports-4.0.1/lib/jasperreports-6.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Java Development/dynamicreports-4.0.1/lib/jcommon-1.0.15.jar"/>
+	<classpathentry kind="lib" path="D:/Java Development/dynamicreports-4.0.1/lib/jfreechart-1.0.12.jar"/>
+	<classpathentry kind="lib" path="D:/Java Development/dynamicreports-4.0.1/lib/json-20080701.jar"/>
+	<classpathentry kind="lib" path="D:/Java Development/dynamicreports-4.0.1/lib/jxl-2.6.10.jar"/>
+	<classpathentry kind="lib" path="D:/Java Development/dynamicreports-4.0.1/lib/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="D:/Java Development/dynamicreports-4.0.1/lib/poi-3.10.1.jar"/>
+	<classpathentry kind="lib" path="D:/Java Development/dynamicreports-4.0.1/lib/serializer-2.7.1.jar"/>
+	<classpathentry kind="lib" path="D:/Java Development/dynamicreports-4.0.1/lib/spring-beans-2.5.jar"/>
+	<classpathentry kind="lib" path="D:/Java Development/dynamicreports-4.0.1/lib/spring-core-2.5.jar"/>
+	<classpathentry kind="lib" path="D:/Java Development/dynamicreports-4.0.1/lib/velocity-1.7.jar"/>
+	<classpathentry kind="lib" path="D:/Java Development/dynamicreports-4.0.1/lib/xalan-2.7.1.jar"/>
+	<classpathentry kind="lib" path="D:/Java Development/dynamicreports-4.0.1/lib/xml-apis-1.3.04.jar"/>
+	<classpathentry kind="lib" path="D:/Java Development/dynamicreports-4.0.1/lib/xml-apis-ext-1.3.04.jar"/>
+	<classpathentry kind="lib" path="D:/Java Development/jcalendar.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
